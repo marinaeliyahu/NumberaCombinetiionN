@@ -1,0 +1,94 @@
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.csproj.AssemblyReference.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.AssemblyInfoInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.AssemblyInfo.cs
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.csproj.CoreCompileInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\appsettings.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.exe
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.deps.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.runtimeconfig.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.Collection.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.WebAppCoreTargilME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppCoreTargilME.props
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppCoreTargilME.props
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppCoreTargilME.props
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\scopedcss\bundle\WebAppCoreTargilME.styles.css
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.csproj.CopyComplete
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\refint\WebAppCoreTargilME.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.genruntimeconfig.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\obj\Debug\net7.0\ref\WebAppCoreTargilME.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\appsettings.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.exe
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.deps.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.runtimeconfig.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.Collection.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.csproj.AssemblyReference.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.AssemblyInfoInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.AssemblyInfo.cs
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.csproj.CoreCompileInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.WebAppCoreTargilME.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppCoreTargilME.props
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppCoreTargilME.props
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppCoreTargilME.props
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\scopedcss\bundle\WebAppCoreTargilME.styles.css
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCo.7B404559.Up2Date
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\refint\WebAppCoreTargilME.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\WebAppCoreTargilME.genruntimeconfig.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME\obj\Debug\net7.0\ref\WebAppCoreTargilME.dll

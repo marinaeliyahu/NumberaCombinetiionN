@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+        "projectName": "WebAppCoreTargilME.ApiServices",
+        "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj"
+              },
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj"
+              },
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+        "projectName": "WebAppCoreTargilME.BusinessLogic",
+        "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+        "projectName": "WebAppCoreTargilME.Common",
+        "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+        "projectName": "WebAppCoreTargilME.Mapper",
+        "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.ExpressionMapping": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj",
+        "projectName": "WebAppCoreTargilME",
+        "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj"
+              },
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj"
+              },
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj"
+              },
+              "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj": {
+                "projectPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

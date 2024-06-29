@@ -1,0 +1,38 @@
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.csproj.AssemblyReference.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.AssemblyInfoInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.AssemblyInfo.cs
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.csproj.CoreCompileInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.deps.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.csproj.CopyComplete
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\refint\WebAppCoreTargilME.ApiServices.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\ref\WebAppCoreTargilME.ApiServices.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.deps.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.BusinessLogic.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.csproj.AssemblyReference.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.AssemblyInfoInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.AssemblyInfo.cs
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.csproj.CoreCompileInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCo.0E98AC8C.Up2Date
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\refint\WebAppCoreTargilME.ApiServices.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\WebAppCoreTargilME.ApiServices.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.ApiServices\obj\Debug\net7.0\ref\WebAppCoreTargilME.ApiServices.dll

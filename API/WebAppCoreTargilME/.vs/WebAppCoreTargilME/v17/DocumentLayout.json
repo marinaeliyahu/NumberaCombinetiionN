@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E704FBB1-80A9-486B-A22E-507D6DD741BF}|..\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.businesslogic\\numbercombinationsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\WebAppCoreTargilME.AppServices\\NumberCombinationsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704FBB1-80A9-486B-A22E-507D6DD741BF}|..\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.businesslogic\\inumbercombinationsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B22A14-2060-42C1-9964-BFCA674ED9AF}|..\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.apiservices\\numbercombinationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B22A14-2060-42C1-9964-BFCA674ED9AF}|..\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.apiservices\\inumbercombinationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\1.AppServices\\INumberCombinationsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\basemodel\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\modelsdata\\numbercombinationsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme\\controllers\\numbercombinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|solutionrelative:controllers\\numbercombinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\querydata\\getnextapiquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\querydata\\querydatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\querydata\\nquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\basemodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\modelsdata\\startapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme\\webappcoretargilme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD2C9985-32B5-447C-B686-30711CB97020}|WebAppCoreTargilME.csproj|solutionrelative:webappcoretargilme.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E704FBB1-80A9-486B-A22E-507D6DD741BF}|..\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.businesslogic\\webappcoretargilme.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76E9B2F-B2EB-4CB1-9554-448A1C442A08}|..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.common\\webappcoretargilme.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B22A14-2060-42C1-9964-BFCA674ED9AF}|..\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.apiservices\\webappcoretargilme.apiservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B61A7D9-26BC-4D2B-B661-3F839F341911}|..\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.mapper\\webappcoretargilme.mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B61A7D9-26BC-4D2B-B661-3F839F341911}|..\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj|c:\\users\\marina\\2024-my progects\\meswsea\\targilme1last\\api\\webappcoretargilme.mapper\\domaintoviewmodelmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberCombinationsBL.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\NumberCombinationsBL.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.BusinessLogic\\NumberCombinationsBL.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\NumberCombinationsBL.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.BusinessLogic\\NumberCombinationsBL.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAswAABAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INumberCombinationsService.cs",
+              "DocumentMoniker": "C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\1.AppServices\\INumberCombinationsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\marinae\\MESWSEA\\TargilME1\\API\\1.AppServices\\INumberCombinationsService.cs",
+              "ToolTip": "C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\1.AppServices\\INumberCombinationsService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\marinae\\MESWSEA\\TargilME1\\API\\1.AppServices\\INumberCombinationsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:12:47.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INumberCombinationsService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\INumberCombinationsService.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.ApiServices\\INumberCombinationsService.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\INumberCombinationsService.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.ApiServices\\INumberCombinationsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberCombinationsService.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\NumberCombinationsService.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.ApiServices\\NumberCombinationsService.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\NumberCombinationsService.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.ApiServices\\NumberCombinationsService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwB0AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INumberCombinationsBL.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\INumberCombinationsBL.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.BusinessLogic\\INumberCombinationsBL.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\INumberCombinationsBL.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.BusinessLogic\\INumberCombinationsBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAjwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberCombinationsService.cs",
+              "DocumentMoniker": "C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\WebAppCoreTargilME.AppServices\\NumberCombinationsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\marinae\\MESWSEA\\TargilME1\\API\\WebAppCoreTargilME.AppServices\\NumberCombinationsService.cs",
+              "ToolTip": "C:\\Users\\marinae\\MESWSEA\\TargilME1\\API\\WebAppCoreTargilME.AppServices\\NumberCombinationsService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\marinae\\MESWSEA\\TargilME1\\API\\WebAppCoreTargilME.AppServices\\NumberCombinationsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:12:47.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\BaseModel\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\BaseModel\\PaginationModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\BaseModel\\PaginationModel.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\BaseModel\\PaginationModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumberCombinationsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\ModelsData\\NumberCombinationsModel.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\ModelsData\\NumberCombinationsModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\ModelsData\\NumberCombinationsModel.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\ModelsData\\NumberCombinationsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumberCombinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Controllers\\NumberCombinationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NumberCombinationsController.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Controllers\\NumberCombinationsController.cs",
+              "RelativeToolTip": "Controllers\\NumberCombinationsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAApwEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QueryDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\QueryDataModel.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\QueryData\\QueryDataModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\QueryDataModel.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\QueryData\\QueryDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetNextApiQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\GetNextApiQuery.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\QueryData\\GetNextApiQuery.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\GetNextApiQuery.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\QueryData\\GetNextApiQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\NQuery.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\QueryData\\NQuery.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\QueryData\\NQuery.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\QueryData\\NQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\BaseModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\BaseModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\BaseModel\\BaseViewModel.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\BaseModel\\BaseViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartApiModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\ModelsData\\StartApiModel.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\ModelsData\\StartApiModel.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\ModelsData\\StartApiModel.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\ModelsData\\StartApiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebAppCoreTargilME.BusinessLogic.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.BusinessLogic\\WebAppCoreTargilME.BusinessLogic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T10:34:07.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T10:34:07.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebAppCoreTargilME.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj",
+              "RelativeDocumentMoniker": "WebAppCoreTargilME.csproj",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME\\WebAppCoreTargilME.csproj",
+              "RelativeToolTip": "WebAppCoreTargilME.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T10:34:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebAppCoreTargilME.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Common\\WebAppCoreTargilME.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T10:34:07.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WebAppCoreTargilME.ApiServices.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.ApiServices\\WebAppCoreTargilME.ApiServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T10:34:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DomainToViewModelMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\DomainToViewModelMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Mapper\\DomainToViewModelMappingProfile.cs",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\DomainToViewModelMappingProfile.cs",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Mapper\\DomainToViewModelMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:34:07.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WebAppCoreTargilME.Mapper.csproj",
+              "DocumentMoniker": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+              "RelativeDocumentMoniker": "..\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+              "ToolTip": "C:\\Users\\Marina\\2024-my progects\\MESWSEA\\TargilME1Last\\API\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+              "RelativeToolTip": "..\\WebAppCoreTargilME.Mapper\\WebAppCoreTargilME.Mapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T10:34:07.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

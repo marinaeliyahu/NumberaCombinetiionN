@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebAppCoreTargilME.ApiServices\WebAppCoreTargilME.ApiServices.csproj" />
+    <ProjectReference Include="..\WebAppCoreTargilME.BusinessLogic\WebAppCoreTargilME.BusinessLogic.csproj" />
+    <ProjectReference Include="..\WebAppCoreTargilME.Common\WebAppCoreTargilME.Common.csproj" />
+    <ProjectReference Include="..\WebAppCoreTargilME.Mapper\WebAppCoreTargilME.Mapper.csproj" />
+  </ItemGroup>
+
+</Project>

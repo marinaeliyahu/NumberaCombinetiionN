@@ -1,0 +1,24 @@
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.deps.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.csproj.AssemblyReference.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.AssemblyInfoInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.AssemblyInfo.cs
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\refint\WebAppCoreTargilME.Mapper.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\ref\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.deps.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\bin\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.csproj.AssemblyReference.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.AssemblyInfoInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.AssemblyInfo.cs
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\refint\WebAppCoreTargilME.Mapper.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\WebAppCoreTargilME.Mapper.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Mapper\obj\Debug\net7.0\ref\WebAppCoreTargilME.Mapper.dll

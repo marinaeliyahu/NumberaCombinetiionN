@@ -1,0 +1,23 @@
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.deps.json
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.csproj.AssemblyReference.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.AssemblyInfoInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.AssemblyInfo.cs
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.csproj.CoreCompileInputs.cache
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\refint\WebAppCoreTargilME.Common.dll
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\marinae\MESWSEA\TargilME1\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\ref\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.deps.json
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\bin\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.AssemblyInfoInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.AssemblyInfo.cs
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.csproj.CoreCompileInputs.cache
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\refint\WebAppCoreTargilME.Common.dll
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\WebAppCoreTargilME.Common.pdb
+C:\Users\Marina\2024-my progects\MESWSEA\TargilME1Last\API\WebAppCoreTargilME.Common\obj\Debug\net7.0\ref\WebAppCoreTargilME.Common.dll
